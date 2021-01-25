@@ -1,0 +1,71 @@
+2021-01-14 22:53:24,381 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-14 22:53:28,858 - G:\Celery_wk\app.py[line:29] - INFO: logged in successfully ImmutableMultiDict([('a', '1')])
+2021-01-14 22:53:28,858 - G:\Celery_wk\app.py[line:36] - INFO: list index out of range
+2021-01-14 22:53:28,858 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py[line:1891] - ERROR: Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-14 22:53:28,860 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [14/Jan/2021 22:53:28] "[35m[1mGET /?a=1 HTTP/1.1[0m" 500 -
+2021-01-14 22:53:30,346 - G:\Celery_wk\app.py[line:29] - INFO: logged in successfully ImmutableMultiDict([('a', '1')])
+2021-01-14 22:53:30,346 - G:\Celery_wk\app.py[line:36] - INFO: list index out of range
+2021-01-14 22:53:30,346 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py[line:1891] - ERROR: Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-14 22:53:30,347 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [14/Jan/2021 22:53:30] "[35m[1mGET /?a=1 HTTP/1.1[0m" 500 -
+2021-01-14 22:53:30,536 - G:\Celery_wk\app.py[line:29] - INFO: logged in successfully ImmutableMultiDict([('a', '1')])
+2021-01-14 22:53:30,537 - G:\Celery_wk\app.py[line:36] - INFO: list index out of range
+2021-01-14 22:53:30,537 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py[line:1891] - ERROR: Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-14 22:53:30,537 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [14/Jan/2021 22:53:30] "[35m[1mGET /?a=1 HTTP/1.1[0m" 500 -
+2021-01-14 22:53:30,708 - G:\Celery_wk\app.py[line:29] - INFO: logged in successfully ImmutableMultiDict([('a', '1')])
+2021-01-14 22:53:30,708 - G:\Celery_wk\app.py[line:36] - INFO: list index out of range
+2021-01-14 22:53:30,708 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py[line:1891] - ERROR: Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-14 22:53:30,708 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [14/Jan/2021 22:53:30] "[35m[1mGET /?a=1 HTTP/1.1[0m" 500 -
+2021-01-14 22:53:30,860 - G:\Celery_wk\app.py[line:29] - INFO: logged in successfully ImmutableMultiDict([('a', '1')])
+2021-01-14 22:53:30,861 - G:\Celery_wk\app.py[line:36] - INFO: list index out of range
+2021-01-14 22:53:30,861 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py[line:1891] - ERROR: Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\flask\app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2021-01-14 22:53:30,861 - C:\Users\nile-ssd\.virtualenvs\Celery_wk\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [14/Jan/2021 22:53:30] "[35m[1mGET /?a=1 HTTP/1.1[0m" 500 -
